@@ -5,6 +5,10 @@ earlier were written from the tags and release notes that already existed, so th
 after the fact rather than backdated to look contemporaneous. From here on, every noticeable
 change ships as a release and the journal is written in the same commit as the release.
 
+## v0.8.1 - 2026-10-12
+
+Refreshed 10 skills to their current working versions (bodies only, catalog descriptions kept): rep-reply, pr-reply, contrib-watch, share-fix, issue-match, release-slice, outbound-gate, taste-check, slot, hk. Leak-scan: 0 FAIL.
+
 ## v0.6.0 - 2026-10-03
 
 **The v0.5.0 onboarding commit had quietly undone the catalog grooming. This release puts it back.**
